@@ -1,0 +1,40 @@
+/* CSS */
+/*  */
+/* table */
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  }
+
+  td, th, tr {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+  }
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* form */
+#frm{
+	text-align: center;
+	border: solid grey 1px;
+	width: 50%;
+	border-radius: 5px;
+	margin: 100px auto;
+	background: white;
+	padding: 50px;
+}
+
+/* button */
+#btn{
+	color: #fff;
+	background: #337ab7;
+	padding: 5px
+	margin-left: 69%;
+}
+
